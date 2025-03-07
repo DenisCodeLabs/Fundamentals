@@ -1,2 +1,10 @@
-# Fundamentals
-Fundamentals es un repositorio que compila las lecciones y habilidades esenciales que he adquirido a lo largo de mi experiencia en desarrollo backend con Java.
+# **Fundamentals** 
+**Cosas que deberías saber iniciando en el área de Streaming (Backend Java)**
+---
+<br>
+
+### 💻 Programar con IntelliJ IDEA
+### 🌐 Dominar Git
+### ⚙️ Comandos Maven
+### 🐞 Errores (Bugs) Comunes
+  
