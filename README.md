@@ -8,9 +8,8 @@
 ### ⚙️ Comandos Maven
 ### 🐞 Errores (Bugs) Comunes
 ---
-  
+### 💻 Programar con IntelliJ IDEA
 ![Intellij](https://github.com/user-attachments/assets/4ed81a8c-86c8-4d71-88ff-f0118d2f199f)
-
 ### 🔍 SonarLint
 SonarLint es un plugin que analiza tu código en tiempo real y te ayuda a detectar errores, vulnerabilidades y malas prácticas. <br>
 Instalar el plugin:
@@ -37,3 +36,16 @@ Clases y métodos: detalles de qué partes del código están cubiertas y cuále
 Colores en el código: <br>
   - Verde → Código cubierto por pruebas. <br>
   - Rojo → Código no ejecutado en las pruebas.
+
+---
+### 🌐 Dominar Git
+![git](https://github.com/user-attachments/assets/77ed5acc-1a0b-428d-9b93-5099404e2308)
+
+Si hiciste un commit con un mensaje incorrecto y aún no lo has hecho push, puedes corregirlo así:
+
+```sh
+git commit -m "Mensaje equivocado"
+git commit --amend -m "Mensaje corregido"
+
+```
+Esto sobrescribe el mensaje del último commit sin crear uno nuevo. 
