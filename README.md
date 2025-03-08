@@ -39,7 +39,9 @@ Colores en el código: <br>
 
 ---
 ### 🌐 Dominar Git
-![git](https://github.com/user-attachments/assets/77ed5acc-1a0b-428d-9b93-5099404e2308)
+
+<img width="1464" alt="git-feature" src="https://github.com/user-attachments/assets/bc155fb2-327f-473b-a727-22ef5a1b578a" />
+
 
 Si hiciste un commit con un mensaje incorrecto y aún no lo has hecho push, puedes corregirlo así:
 
