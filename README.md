@@ -6,7 +6,7 @@
 ### 💻 Programar con IntelliJ IDEA
 ### 🌐 Dominar Git
 ### ⚙️ Comandos Maven
-### 🐞 Errores (APX) Comunes (Próximamente)
+### 🐞 Errores APX Comunes (Próximamente)
 ---
 ### 💻 Programar con IntelliJ IDEA
 ![Intellij](https://github.com/user-attachments/assets/4ed81a8c-86c8-4d71-88ff-f0118d2f199f)
