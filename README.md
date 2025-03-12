@@ -6,10 +6,11 @@
 ### 💻 Programar con IntelliJ IDEA
 ### 🌐 Dominar Git
 ### ⚙️ Comandos Maven
-### 🐞 Errores (Bugs) Comunes
+### 🐞 Errores (APX) Comunes (Próximamente)
 ---
 ### 💻 Programar con IntelliJ IDEA
 ![Intellij](https://github.com/user-attachments/assets/4ed81a8c-86c8-4d71-88ff-f0118d2f199f)
+### 🔀 Mergeo de dos Ramas (Próximamente)
 ### 🔍 SonarLint
 SonarLint es un plugin que analiza tu código en tiempo real y te ayuda a detectar errores, vulnerabilidades y malas prácticas. <br>
 Instalar el plugin:
@@ -51,3 +52,12 @@ git commit --amend -m "Mensaje corregido"
 
 ```
 Esto sobrescribe el mensaje del último commit sin crear uno nuevo. 
+
+---
+### ⚙️ Comandos Maven
+```sh
+mvn clean install
+```
+
+Elimina la carpeta target, compila, ejecuta pruebas y copia el JAR/WAR en el repositorio local (.m2/repository).
+
